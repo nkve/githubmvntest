@@ -1,0 +1,10 @@
+name:        githubmvntest
+version: 1.0.0-SNAPSHOT
+srcDirs:
+  - main/java
+tstDirs:
+  - test/java
+srcArtifacts:
+tstArtifacts:
+ - {g: junit,               a: junit,       v: 4.12}
+
