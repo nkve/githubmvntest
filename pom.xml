@@ -19,15 +19,8 @@
   <distributionManagement>
     <repository>
 <!--      this id needs to match up with the id listed in the settings.xml-->
-<!--which looks like this-->
-<!--      <server>-->
-<!--        <id>github</id>-->
-<!--        <username>nkve</username>-->
-<!--        <password>111111111111</password>-->
-<!--      </server>-->
       <id>github</id>
-<!--      this name doesn't seem to matter-->
-      <name>GGitHub nkve Apache Maven Packagess</name>
+      <name>GitHub nkve Apache Maven Packagess</name>
       <url>https://maven.pkg.github.com/nkve/githubmvntest</url>
     </repository>
   </distributionManagement>
